@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(591): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(619): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1299): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1301): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1303): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1305): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1307): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1309): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1311): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1318): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1319): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1320): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(1321): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\mike_\documents\scrips\project1\project1\source.cpp(805): warning C4715: 'func': no todas las rutas de acceso de control devuelven un valor
+  Project1.vcxproj -> C:\Users\mike_\Documents\scrips\Project1\Debug\Project1.exe
